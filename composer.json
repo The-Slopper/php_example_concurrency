@@ -1,6 +1,6 @@
 {
   "name": "example/php-example-concurrency",
-  "description": "Exemplo de concorrencia: paralelismo, sincronizacao e processamento assincrono.",
+  "description": "Concurrency example: forllelism, synchronization, and asynchronous processing.",
   "type": "project",
   "license": "MIT",
   "keywords": ["reference", "example", "platform"],
